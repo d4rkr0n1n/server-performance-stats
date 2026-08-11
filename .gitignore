@@ -1,0 +1,43 @@
+# Vagrant
+.vagrant/
+*.log
+
+# VirtualBox
+*.vbox
+*.vbox-prev
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python (log analysis CLI toolkit)
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Node (if CLI tooling uses it)
+node_modules/
+npm-debug.log*
+
+# Local log output / analysis artifacts
+logs/
+*.local.log
+
+TODO.md
+NOTES.md

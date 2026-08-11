@@ -5,7 +5,7 @@
 Vagrantfile creates a VM using vagrant and copies a script ``server-stats.sh`` that can analyse basic server performance stats.
 
 <hr/>
-You should be able to run the script on any Linux server and it should give you the following stats:
+The script should run on VM provisioned by vagrant and it should give you the following stats:
 
 - Total CPU usage
 - Total memory usage (Free vs Used including percentage)

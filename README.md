@@ -22,3 +22,5 @@ You should be able to run the script on any Linux server and it should give you 
 - ``vagrant up`` - For starting and provisioning the VM using vagrant.
 - ``vagrant reload`` - For applying configuration changes using vagrant.
 - ``vagrant provision`` - For provisioning file and shell using vagrant.
+
+## Project URL: https://roadmap.sh/projects/server-stats

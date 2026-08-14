@@ -1,10 +1,13 @@
 # Server Performance Stats
 
+## About the project
+
+Goal of this project is to write a script to analyse server performance stats.
+
 ## Specification
 
 Vagrantfile creates a VM using vagrant and copies a script ``server-stats.sh`` that can analyse basic server performance stats.
 
-<hr/>
 The script should run on VM provisioned by vagrant and it should give you the following stats:
 
 - Total CPU usage

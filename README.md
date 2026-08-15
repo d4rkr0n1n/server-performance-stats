@@ -25,5 +25,6 @@ The script should run on VM provisioned by vagrant and it should give you the fo
 - ``vagrant up`` - For starting and provisioning the VM using vagrant.
 - ``vagrant reload`` - For applying configuration changes using vagrant.
 - ``vagrant provision`` - For provisioning file and shell using vagrant.
+- ``vagrant destroy; vagrant up`` - For destroying and provisioning the VM in sequence using vagrant.
 
 ## Project URL: https://roadmap.sh/projects/server-stats
